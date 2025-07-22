@@ -1,0 +1,56 @@
+</body>
+</html>
+=======
+    </section>
+
+    <!-- New Image Gallery Section -->
+    <section class="image-gallery">
+        <h2>Campus Facilities & Highlights</h2>
+        <div class="gallery-grid">
+            <img src="images/001.png" alt="Image 001" />
+            <img src="images/002.png" alt="Image 002" />
+            <img src="images/003.png" alt="Image 003" />
+            <img src="images/34.png" alt="Image 34" />
+            <img src="images/auditorium.png" alt="Auditorium" />
+            <img src="images/banking.png" alt="Banking" />
+            <img src="images/banner image.png" alt="Banner" />
+            <img src="images/building 1.png" alt="Building 1" />
+            <img src="images/building 2.png" alt="Building 2" />
+            <img src="images/building 3.png" alt="Building 3" />
+            <img src="images/canteen.png" alt="Canteen" />
+            <img src="images/cl 2.png" alt="Classroom 2" />
+            <img src="images/cl.png" alt="Classroom" />
+            <img src="images/counselling.png" alt="Counselling" />
+            <img src="images/ct.png" alt="CT" />
+            <img src="images/digital lib.png" alt="Digital Library" />
+            <img src="images/digital repo.png" alt="Digital Repository" />
+            <img src="images/digital srt.png" alt="Digital SRT" />
+            <img src="images/e lib.png" alt="E Library" />
+            <img src="images/earn while learn.png" alt="Earn While Learn" />
+            <img src="images/guest house.png" alt="Guest House" />
+            <img src="images/gym.png" alt="Gym" />
+            <img src="images/hostel.png" alt="Hostel" />
+            <img src="images/infra.png" alt="Infrastructure" />
+            <img src="images/iso.png" alt="ISO" />
+            <img src="images/lab.png" alt="Lab" />
+            <img src="images/ll.png" alt="LL" />
+            <img src="images/logo.png" alt="Logo" />
+            <img src="images/medical centre.png" alt="Medical Centre" />
+            <img src="images/naac.png" alt="NAAC" />
+            <img src="images/naturopathy hospital.png" alt="Naturopathy Hospital" />
+            <img src="images/ncc.png" alt="NCC" />
+            <img src="images/placement.png" alt="Placement" />
+            <img src="images/scholarship.png" alt="Scholarship" />
+            <img src="images/smart class.png" alt="Smart Class" />
+            <img src="images/sports.png" alt="Sports" />
+            <img src="images/study tour.png" alt="Study Tour" />
+            <img src="images/transport.png" alt="Transport" />
+            <img src="images/tulsi.png" alt="Tulsi" />
+            <img src="images/um.png" alt="UM" />
+            <img src="images/vg.png" alt="VG" />
+            <img src="images/video lecture.png" alt="Video Lecture" />
+            <img src="images/yoga.png" alt="Yoga" />
+        </div>
+    </section>
+</body>
+</html>
